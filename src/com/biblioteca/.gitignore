@@ -1,0 +1,14 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de persistência
+*.dat
+dados/
+
+# Configurações de IDE
+.idea/
+.vscode/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
